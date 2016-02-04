@@ -1,6 +1,6 @@
 {
   "name": "math-float32-significand",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns an integer corresponding to the significand of a single-precision floating-point number.",
   "author": {
     "name": "Athan Reines",
